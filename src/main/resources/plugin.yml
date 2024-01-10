@@ -1,0 +1,7 @@
+name: GG
+version: '${project.version}'
+main: gurra.GG
+api-version: 1.20
+
+commands:
+  GG:
